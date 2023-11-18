@@ -1,0 +1,30 @@
+body{
+    background-image: url(../images/centro_distribucion.jpg);
+    background-size: cover;
+}
+
+main{
+    background-color: aliceblue;
+    font-family: roboto, sans-serif;
+    font-size: 32px;
+    width: 30vw;
+    padding: 2%;
+    margin-top: 20vh;
+    margin-left: 3vw;
+    border-radius: 10px;
+    text-align: justify;
+
+}
+
+button{
+    background-color: aliceblue;
+    font-family: roboto, sans-serif;
+    font-weight:800;
+    font-size: 32px;
+    width: 34vw;
+    padding: 2%;
+    margin-top: 2vh;
+    margin-left: 3vw;
+    border-radius: 10px;
+    text-align: center;
+}
